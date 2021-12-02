@@ -12,16 +12,3 @@ client.on("connect", () => {
 
 setupInput(client);
 
-
-
-
-//------------data event---------------
-// client.on("data", (data) => {
-//   console.log(data);
-
-// });
-
-//---------------end------------
-// client.on('end', () => {
-//   console.log('disconned from server');
-// })
