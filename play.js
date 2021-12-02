@@ -10,7 +10,7 @@ client.on("connect", () => {
 
 })
 
-setupInput();
+setupInput(client);
 
 
 
